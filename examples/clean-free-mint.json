@@ -1,0 +1,1 @@
+{"asset":"NFT","chain":"bsc","claimFree":true,"expectedAmountWei":"0","expectedRecipient":"0x2222222222222222222222222222222222222222","from":"0x1111111111111111111111111111111111111111","simulation":{"balanceChanges":[{"asset":"NFT","change":"+1"}],"success":true},"to":"0x2222222222222222222222222222222222222222","valueWei":"0"}
